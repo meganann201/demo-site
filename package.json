@@ -1,5 +1,6 @@
 {
   "name": "demo-site",
+  "homepage" : "https://meganann201.github.io/demo-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
